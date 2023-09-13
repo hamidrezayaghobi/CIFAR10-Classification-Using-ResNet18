@@ -1,7 +1,7 @@
 # CIFAR10 Classification Using ResNet18
 
 ## Summary:
-I implement ResNet 18 Using the Pytorch library which can classify CIFAR10 data which has an accuracy of 91% on test data.
+This repository presents a practical implementation of image classification on the CIFAR-10 dataset using the ResNet18 architecture. It serves as a helpful resource for those seeking to understand and apply deep learning techniques for image recognition tasks.
 
 ## Accuracy:
 | Model | Accuracy on Test Data |
